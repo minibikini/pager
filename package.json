@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.0"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "es5-shim": "^4.0.3",
